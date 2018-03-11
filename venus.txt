@@ -1,8 +1,6 @@
 venus is the goddess of love! 
 the planet is poisonous 
-<<<<<<< HEAD
 
 Rosalyn wuz here.
-=======
 You know - she is also a tennis player.
->>>>>>> 118b32004186ce6b993f0c452fa5b34bea75aeb7
+venus isn't as good as serena
